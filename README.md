@@ -1,5 +1,5 @@
 # Libft
-The project's aim is to create a custom C library by recoding functions of the C standard library and additional utility functions. The main purpose of Libft is to understand basic programming concepts.
+The project's aim is to create a custom C library by recoding functions of the C standard library and additional utility functions.
 
 ## Key Concepts
 - Data structures
@@ -47,14 +47,31 @@ The project's aim is to create a custom C library by recoding functions of the C
 
 
 ### Linked lists functions
+
 |                               Functions                              |
 |                                   -                                  |
-|[ft_lstadd_front](https://github.com/Zveaga/Libft/blob/master/ft_.c) -> |
-|[ft_lstlast](https://github.com/Zveaga/Libft/blob/master/ft_.c) -> |
-|[ft_lstnew](https://github.com/Zveaga/Libft/blob/master/ft_.c) -> |
-|[ft_lstsize](https://github.com/Zveaga/Libft/blob/master/ft_.c) -> |
+|[ft_lstadd_front](https://github.com/Zveaga/Libft/blob/master/ft_lstadd_front.c) -> |
+|[ft_lstlast](https://github.com/Zveaga/Libft/blob/master/ft_lstlast.c) -> |
+|[ft_lstnew](https://github.com/Zveaga/Libft/blob/master/ft_lstnew.c) -> |
+|[ft_lstsize](https://github.com/Zveaga/Libft/blob/master/ft_lstsize.c) -> |
 |[ft_](https://github.com/Zveaga/Libft/blob/master/ft_.c) -> |
 
+
+### Additional functions
+
+|                               Functions                              |
+|                                   -                                  |
+|[ft_atoi](https://github.com/Zveaga/Libft/blob/master/ft_atoi.c) -> |
+|[ft_itoa](https://github.com/Zveaga/Libft/blob/master/ft_itoa.c) -> |
+|[ft_putchar_fd](https://github.com/Zveaga/Libft/blob/master/ft_putchar_fd.c) -> |
+|[ft_putendl_fd](https://github.com/Zveaga/Libft/blob/master/ft_putendl_fd.c) -> |
+|[ft_putnbr_fd](https://github.com/Zveaga/Libft/blob/master/ft_putnbr_fd.c) -> |
+|[ft_putstr_fd](https://github.com/Zveaga/Libft/blob/master/ft_putstr_fd.c) -> |
+|[ft_split](https://github.com/Zveaga/Libft/blob/master/ft_ft_split.c) -> |
+|[ft_striteri](https://github.com/Zveaga/Libft/blob/master/ft_striteri.c) -> |
+|[ft_strjoin](https://github.com/Zveaga/Libft/blob/master/ft_strjoin.c) -> |
+|[ft_strmapi](https://github.com/Zveaga/Libft/blob/master/ft_strmapi.c) -> |
+|[ft_substr](https://github.com/Zveaga/Libft/blob/master/ft_substr.c) -> |
 
 ## Remarks
 Most of these functions are already implemented and available to us from the C standard library, so you might ask yourselves, why spending the time to recode these functions that are readily available to us? That was my question too, but it slowly became obvious why. It played a crucial role in forming how 
