@@ -36,11 +36,11 @@ The project's aim is to create a custom C library by recoding functions of the C
 
 |                               Functions                              |
 |                                   -                                  |
-|[ft_bzero](https://github.com/Zveaga/Libft/blob/master/ft_bzero.c) -> |
-|[ft_calloc](https://github.com/Zveaga/Libft/blob/master/ft_calloc.c) -> |
-|[ft_memchr](https://github.com/Zveaga/Libft/blob/master/ft_memchr.c) -> |
-|[ft_memcmp](https://github.com/Zveaga/Libft/blob/master/ft_memcmp.c) -> |
-|[ft_memcpy](https://github.com/Zveaga/Libft/blob/master/ft_memcpy.c) -> |
+|[ft_bzero](https://github.com/Zveaga/Libft/blob/master/ft_bzero.c) -> erases data in a string by writing zeros ('\0')|
+|[ft_calloc](https://github.com/Zveaga/Libft/blob/master/ft_calloc.c) -> dinnamically allocate memory and set the memory to zero ('\0')|
+|[ft_memchr](https://github.com/Zveaga/Libft/blob/master/ft_memchr.c) -> scan memory for a character|
+|[ft_memcmp](https://github.com/Zveaga/Libft/blob/master/ft_memcmp.c) -> compare memory areas|
+|[ft_memcpy](https://github.com/Zveaga/Libft/blob/master/ft_memcpy.c) -> copy memory area|
 |[ft_memmove](https://github.com/Zveaga/Libft/blob/master/ft_memmove.c) -> |
 |[ft_memset](https://github.com/Zveaga/Libft/blob/master/ft_memset.c) -> |
 
