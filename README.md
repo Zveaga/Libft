@@ -1,4 +1,4 @@
-# Libft make && valgrind --leak-check=full --track-origins=yes  ./minishell
+# Libft
 The project's aim is to create a custom C library by recoding functions of the C standard library and additional utility functions.
 
 ## Key Concepts
