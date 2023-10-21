@@ -75,4 +75,4 @@ The project's aim is to create a custom C library by recoding functions of the C
 |[ft_strtrim](https://github.com/Zveaga/Libft/blob/master/ft_strtrim.c) -> trim a character set from a string|
 
 ## Remarks
-Most of these functions are already implemented and available to us from the C standard library, so you might ask yourselves, why spending the time to recode these functions that are readily available to us? That was my question too, but it slowly became obvious why. It played a crucial role in forming how 
+This was my very first introduction to C programming. Most of the Libft library functions are already implemented and available to us from the C standard library, so you might ask yourselves why spending all the time to tediously recode them? That was my question too when I started the project. It only became obvious when I completed it. Reverse-engineering all these functions taught me about data structures such as arrays and linked lists. It also introduced me to basic memory and string manipulation. Looking forward to the next challenge!
