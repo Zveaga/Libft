@@ -1,6 +1,5 @@
 # Libft
 The project's aim is to create a custom C library by recoding functions of the C standard library and additional utility functions.
-
 ## Key Concepts
 - Data structures
 - String manipulation
@@ -10,6 +9,7 @@ The project's aim is to create a custom C library by recoding functions of the C
 
 
 ## How To Use
+
 
 ## Library contents
 ### String manipulation functions
@@ -54,7 +54,6 @@ The project's aim is to create a custom C library by recoding functions of the C
 |[ft_lstlast](https://github.com/Zveaga/Libft/blob/master/ft_lstlast.c) -> return the last node of the list|
 |[ft_lstnew](https://github.com/Zveaga/Libft/blob/master/ft_lstnew.c) -> create a new node|
 |[ft_lstsize](https://github.com/Zveaga/Libft/blob/master/ft_lstsize.c) -> count the number of nodes in a list|
-|[ft_](https://github.com/Zveaga/Libft/blob/master/ft_.c) -> |count
 
 
 ### Additional functions
@@ -75,4 +74,5 @@ The project's aim is to create a custom C library by recoding functions of the C
 |[ft_strtrim](https://github.com/Zveaga/Libft/blob/master/ft_strtrim.c) -> trim a character set from a string|
 
 ## Remarks
-This was my very first introduction to C programming. Most of the Libft library functions are already implemented and available to us from the C standard library, so you might ask yourselves why spending all the time to tediously recode them? That was my question too when I started the project. It only became obvious when I completed it. Reverse-engineering all these functions taught me about data structures such as arrays and linked lists. It also introduced me to basic memory and string manipulation. Looking forward to the next challenge!
+This was my very first C project, therefore there will be room for improvement and the code might not be the most efficient. This library will grow as I will be adding more useful functions here.
+You might ask yourselves why spending all the time to tediously recode these functions? That was my question too when I started the project. It only became obvious when I completed it. Reverse-engineering all these functions taught me about data structures such as arrays and linked lists. It also introduced me to basic memory and string manipulation.
