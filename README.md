@@ -17,7 +17,7 @@ Move inside the Libft directory
 cd Libft
 ```
 
-Compile all C the files into a single static library named "libft.a" which can be linked to other C projects to have access to the functions.
+Compile all C the files into a single static library named "libft.a" which can be linked to other C projects in order to have access to the functions.
 ```
 make
 ```
@@ -86,5 +86,5 @@ make
 |[ft_strtrim](https://github.com/Zveaga/Libft/blob/master/ft_strtrim.c) -> trim a character set from a string|
 
 ## Remarks
-This was my very first C project, therefore there will be room for improvement and the code might not be the most efficient. As I will progress with other C projects, more functions will be added. As my coding skills increase, the current functions will also be improved.
-You might ask yourselves why spending all the time to tediously recode these functions? That was my question too when I started the project. It only became obvious when I completed it. Reverse-engineering all these functions taught me about data structures such as arrays and linked lists. It also introduced me to basic memory and string manipulation.
+
+This was my very first C project, therefore, there will be room for improvement, and the code might not be the most efficient. As I progress with other C projects, more functions will be added, and as my coding skills increase, the current functions will also be improved. You might ask yourself why spend all the time to tediously recode these functions? That was my question too when I started the project. It only became obvious when I completed it. Reverse-engineering all these functions taught me about data structures such as arrays and linked lists. It also introduced me to basic memory and string manipulation.
