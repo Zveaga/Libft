@@ -17,7 +17,7 @@ Move inside the Libft directory
 cd Libft
 ```
 
-Compile all C the files into a single static library named "libft.a" which can be linked to other C projects in order to have access to the functions.
+Compile all C the files into a single static library "libft.a" which can be linked to other C projects in order to have access to the functions.
 ```
 make
 ```
