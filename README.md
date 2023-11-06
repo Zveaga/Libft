@@ -5,7 +5,7 @@ The project's aim is to create a custom C library by recoding functions of the C
 - Data structures
 - String manipulation
 - Memory manipulation
-- Working with linked lists
+- Linked lists
 
 ## How To Use
 Clone the repository
